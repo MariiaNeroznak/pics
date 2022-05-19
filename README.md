@@ -1,3 +1,13 @@
+# pics
+
+This applcation get a list of images from unsplash app by search term.
+It uses:
+
+- axios for request
+- https://api.unsplash.com like image api
+- react components
+  Application demonstrate like to work with React class-based components, lifecycle methods and other.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
